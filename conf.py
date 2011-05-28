@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Blockland Docs'
+project = u'Blockland'
 copyright = u'2011, Blockland community'
 
 # The version info for the project you're documenting, acts as replacement for
