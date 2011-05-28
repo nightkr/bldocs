@@ -6,7 +6,7 @@
 Welcome to Blockland Docs's documentation!
 ==========================================
 
-Contents:
+Topics:
 
 .. toctree::
    :maxdepth: 2
