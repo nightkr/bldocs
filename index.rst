@@ -13,6 +13,13 @@ Topics:
 
    string
 
+Popular third-party modifications:
+
+.. toctree::
+   :maxdepth: 2
+
+   rtb
+
 Indices and tables
 ==================
 
