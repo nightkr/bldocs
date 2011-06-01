@@ -82,10 +82,6 @@ Mathematical operations
 
 	Returns the natural logarithm of %n.
 
-.. function:: mLog(%n)
-
-	Returns the natural logarithm of %n.
-
 .. function:: mPow(%n, %x)
 
 	Returns %n to the power of %x.
