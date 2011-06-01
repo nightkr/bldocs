@@ -13,6 +13,8 @@ Topics:
 
    string
 
+   math
+
 Popular third-party modifications:
 
 .. toctree::
