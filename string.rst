@@ -17,7 +17,7 @@ String manipulation and processing
 
 	Replaces all instances of %old in %str with %new and returns the result.
 
-	.. code-block:: none
+	.. code-block:: csharp
 
 		==> strReplace("Hello, World!","World","Jeff");
 		Hello, Jeff!
@@ -39,7 +39,7 @@ String manipulation and processing
 	Compares %str1 and %str2 *lexicographically*, i.e. in dictionary order, *with* case-sensitivity.
 	Returns -1 if %str1 is less than %str2 (%str1 comes before %str2 in the dictionary), 0 if they are equal (%str1 and %str2 would be in the same place in the dictionary) and 1 if %str1 is greater than %str2 (%str1 comes after %str2 in the dictionary).
 
-	.. code-block:: none
+	.. code-block:: csharp
 
 		==> strCmp("bob","bane")
 		1

@@ -5,7 +5,7 @@ Mathematical operations
 
 	Returns the absolute value (the distance from 0 on the number line) of %n.
 
-	.. code-block:: none
+	.. code-block:: csharp
 
 		==> mAbs(-5);
 		5
@@ -48,7 +48,7 @@ Mathematical operations
 
 	Clamps %n between %min and %max. If %n is smaller than %min it returns %min, if %n is larger than %max it returns %max, otherwise it returns %n.
 
-	.. code-block:: none
+	.. code-block:: csharp
 
 		==> mClamp(5,1,10);
 		5
@@ -57,7 +57,7 @@ Mathematical operations
 		==> mClamp(23,1,10);
 		10
 
-.. function:: mClamp(%n, %min, %max)
+.. function:: mClampF(%n, %min, %max)
 
 	Clamps %n between %min and %max, supporting floating (decimal) point numbers. If %n is smaller than %min it returns %min, if %n is larger than %max it returns %max, otherwise it returns %n.
 
@@ -73,7 +73,7 @@ Mathematical operations
 
 	Returns the floating (decimal) point value of %n with only %length number of decimal places with the last decimal place rounded.
 
-	.. code-block:: none
+	.. code-block:: csharp
 
 		==> mFloatLength(3.14159265,4);
 		3.1416
@@ -86,7 +86,7 @@ Mathematical operations
 
 	Returns %n to the power of %x.
 
-	.. code-block:: none
+	.. code-block:: csharp
 
 		==> mPow(2,2);
 		4
