@@ -34,14 +34,6 @@ String manipulation and processing
 
 	Returns all characters in %str in upper-case form.
 
-.. function:: strUpr(%str)
-
-	Returns all characters in %str in upper-case form.
-
-.. function:: strUpr(%str)
-
-	Returns all characters in %str in upper-case form.
-
 .. function:: strCmp(%str1, %str2)
 
 	Compares %str1 and %str2 *lexicographically*, i.e. in dictionary order, *with* case-sensitivity.
