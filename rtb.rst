@@ -73,7 +73,7 @@ The *correct* method for registering an RTB preference:
 		//The user doesn't have RTB so just set the global variables to their default value or do your own non RTB things
 	}
 
-Using the RTB preference system funcionality in a server command:
+Using the RTB preference system functionality in a server command:
 
 .. code-block:: csharp
 

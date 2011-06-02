@@ -15,6 +15,8 @@ Topics:
 
    math
 
+   vector
+
 Popular third-party modifications:
 
 .. toctree::

@@ -1,5 +1,5 @@
-Mathematical operations
-=======================
+Math
+====
 
 .. function:: mAbs(%n)
 
